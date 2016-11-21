@@ -2,7 +2,7 @@
 
 EventBus es una open-source library para Android que utiliza el patrón de publicador/suscriptor para el acoplamiento suelto. EventBus permite la comunicación central para desacoplar las clases con sólo unas pocas líneas de código, simplificando el código, eliminando las dependencias y acelerando el desarrollo de la aplicación.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]( "Logo Ti://github.com/Oswaldofm17/EventBus/blob/master/EventBus-Publish-Subscribe.pngtle Text 1")
 
 ###Sus beneficios con EventBus: ...
 
